@@ -13,7 +13,7 @@ const Gallery = () => {
       <div className='gallery-rest'>
         <div className='Gallery-header'>
             <h1>Gallery</h1>
-            <p>Have a glimpse at our past endeavours before and during the covid time. There are many memories to share but only a few can be captured, the rest you may find in the eyes of beneficiaries.</p>
+            <p>Have a glimpse at our past endeavours. There are many memories to share but only a few can be captured, the rest you may find in the eyes of beneficiaries.</p>
         </div>
         <div className='gallery-body'>
        { displayImage?.map((display,index)=>
