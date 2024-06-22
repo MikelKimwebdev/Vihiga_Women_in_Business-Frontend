@@ -88,7 +88,7 @@ const ContactUs = () => {
             </div>
         </div>
             <div className="map">
-            <div style={{width: "550px" }}><iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=400&amp;hl=en&amp;q=Mungoma%20plaza+(Mungoma%20plaza)&amp;t=&amp;z=12&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps trackers</a></iframe></div> 
+            <div style={{width: "550px" }}><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11284.899572747641!2d34.71441554273428!3d0.07922192533849927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x17800f1a283035dd%3A0x8c0e0e10645c7f3a!2sCherry%20House!5e0!3m2!1sen!2ske!4v1719039429604!5m2!1sen!2ske" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div> 
             </div>
           
         </div>
