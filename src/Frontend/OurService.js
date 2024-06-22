@@ -77,7 +77,7 @@ useEffect(()=>{
                 <li>Ordinary General Meeting held each month to carry out routinely activities of the organisation</li>
                 <li>The financial year of the organisation shall be from 1st January to 30th December each year.</li>
                 <li>Membership is open to all business and professional women, and organizations who promote women’s advancement in the business world and accept rules of the group.</li>
-                <li>To become a member of VIWIB038, it is preferred one must be a full member of the Kenya National chamber of commerce& Industry (KNCCI)</li>
+                <li>To become a member of VIWIB038, it is preferred one must meet all minimum requirements and ready to adhere to VWIB constituion</li>
             </ul>
         </div>
 
