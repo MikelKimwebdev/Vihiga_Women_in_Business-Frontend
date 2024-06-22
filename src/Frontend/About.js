@@ -65,7 +65,7 @@ const About = () => {
             <h1>VWIB Constitution</h1>
             <ul>
                 <li>The vihiga women in business constitution, which was approved by the board.</li>
-                <li>The constitution is a comprehensive framework that defines the organisation's structure,leadership,objectives, membership,meetings,election of the executive commitee in relation with KNCCI,open the pdf to read our constitution .</li>
+                <li>The constitution is a comprehensive framework that defines the organisation's structure,leadership,objectives, membership,meetings and election of the executive commitee ,open the pdf to read our constitution .</li>
             </ul>
             <button><a href='./pdf/constitution.pdf'>Open PDF</a></button>
         </div>
